@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Html",
+        "logo": "html",
+        "id": 0
+    },
+    {
+        "name": "css",
+        "logo": "css",
+        "id": 1
+    },
+    {
+        "name": "javascript",
+        "logo": "js",
+        "id": 2
+    },
+    {
+        "name": "jquery",
+        "logo": "jq",
+        "id": 3
+    },
+    {
+        "name": "Bootstrap",
+        "logo": "bootstrap",
+        "id": 4
+    },
+    {
+        "name": "Es6",
+        "logo": "es6",
+        "id": 5
+    },
+    {
+        "name": "Command line",
+        "logo": "cmd",
+        "id": 6
+    },
+    {
+        "name": "Git/Github",
+        "logo": "githup",
+        "id": 7
+    },
+    {
+        "name": "C++",
+        "logo": "cpp",
+        "id": 8
+    },
+    {
+        "name": "C#",
+        "logo": "chash",
+        "id": 9
+    },
+    {
+        "name": "Java",
+        "logo": "java",
+        "id": 10
+    },
+    {
+        "name": "Python",
+        "logo": "python",
+        "id": 11
+    }
+]
